@@ -34,8 +34,8 @@ public class RunHosts {
 
         content.append("# Github Hosts Start\n");
         content.append(String.format("# Update Time: %s\n", updateTime));
-        content.append("# Project Address: https://github.com/maxiaof/github-hosts\n");
-        content.append("# Update URL: https://raw.githubusercontent.com/maxiaof/github-hosts/master/hosts\n");
+        content.append("# Project Address: https://github.com/ImZjm/github-hosts\n");
+        content.append("# Update URL: https://raw.githubusercontent.com/ImZjm/github-hosts/master/hosts\n");
 
         List<WorkerWrapper<String,String>> workerWrapperList = new ArrayList<>();
 
